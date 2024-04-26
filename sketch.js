@@ -11,3 +11,5 @@ function setup() {
        rect(mouseX,mouseY,20,35)
        }
   }
+
+This work is licensed under CC BY-NC-ND 4.0 
